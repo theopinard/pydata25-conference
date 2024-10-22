@@ -1,43 +1,116 @@
 ---
-title: Your Guide for Amazing Community Confs
+title: About PyCon DE & PyData 2025
 hide:
   - navigation
 ---
 
-# :fontawesome-solid-book-atlas: Your Guide to Organizing an Amazing Community Conference
+# :fontawesome-solid-book-atlas: About PyCon DE & PyData 2025
 
-## What's This All About?
+## 🚨 This is the Public Documentation for PyCon DE & PyData 2025, not the Website!
+We like to share our documentation with the public to show how we work and to inspire others to do the same.
+In case you are looking for the conference website to attend or speak  please visit [pycon.de](https://pycon.de).
 
-Welcome to the world of community-driven conferences! If you're new here, don't worry – this guide is for you. We've
-created this playbook to help anyone, regardless of experience, understand how to organize a conference that's powered
-by volunteers and fueled by passion.
+## 🤝 A Joint Conference
 
-## Why a Playbook?
+PyCon DE & PyData 2025 brings together Python communitie,s in a unique collaboration.
+From programming, software development, and data science to machine learning and artificial intelligence to MLOps,
+Community, ethics, our conference covers a wide range of topics.
 
-Organizing a conference might sound intimidating, but it doesn't have to be! This playbook breaks down the process into
-manageable steps. It's based on years of experience from events like PyCon DE, EuroPython, EuroSciPy, and PyData Berlin.
-We're sharing our knowledge so you can create an amazing event without reinventing the wheel.
+This joint conference is organized by:
 
-## What's Inside?
+- **Python Software Verband e.V.** - The German Python Software Association
+- **NumFOCUS Inc.** - Supporting scientific computing and data science
+- **Pioneers Hub gGmbH** - Fostering innovation and community building
 
-1. **Getting Started**: Everything you need to kick off your conference planning
-2. **Our Mission**: Understanding the heart of a community-driven conference
-3. **Building Your Team**: How to gather and organize your volunteer squad
-4. **Calling All Helpers**: Tips for attracting and engaging volunteers
-5. **Ground Rules**: Creating a positive environment for everyone
-6. **Behind the Scenes**: Setting up the operational backbone of your conference
-7. **Words of Wisdom**: Key principles for smooth organizing
+## 🎯 Our Vision
 
-## How to Use This Guide
+We're creating a space where Python's diverse community comes together to learn, share, and grow. Whether you're using Python to build web applications, analyze data, develop AI solutions, or automate business processes, this conference is for you. We unite:
 
-Whether you're a first-time organizer or a seasoned pro, this playbook is designed to help you at every stage. Feel free
-to jump to the sections most relevant to you, or read through from start to finish for a comprehensive overview.
+- Industry Professionals: Engineers, developers, and data scientists using Python in production
+- Researchers: Academic and industry researchers advancing the field
+- Data Practitioners: Analysts and data experts working with PyData tools daily
+- Developers: Software engineers building with Python
+- Community Members: Enthusiasts, educators, and open-source contributors
+- Decision Makers: Technical leaders and managers exploring Python solutions
 
-## Let's Get Started!
+## 🌟 What Makes Us Special
 
-Ready to dive in? Check out our [Getting Started Guide](installation.md) to take your first steps in conference
-organizing.
+- **Diverse Content**: From web development to data science, from AI to IoT
+- **Dual Tracks**: Dedicated tracks for both PyCon and PyData content
+- **Community-Driven**: Organized by volunteers who are passionate about Python
+- **Inclusive Environment**: Committed to diversity and accessibility
+- **Knowledge Exchange**: Mix of talks, tutorials, and workshops
+- **Networking**: Abundant opportunities to connect with peers and experts
+- **Newcomers & Beginners**: Welcoming environment for all skill levels
 
+## 💡 Program Highlights
+
+- Technical talks and tutorials across all skill levels
+- Hands-on workshops and coding sessions
+- Keynote speeches from thought leaders
+- Lightning talks for quick knowledge sharing
+- Sponsor exhibitions and job opportunities
+- Social events and networking sessions
+
+## 🤲 Community Values
+
+- **Open Source**: Supporting and promoting open source development
+- **Diversity**: Actively working to include underrepresented groups
+- **Education**: Fostering learning and skill development
+- **Collaboration**: Encouraging community participation
+- **Innovation**: Showcasing new ideas and technologies
+
+## 🎫 Accessibility
+
+We strive to make our conference accessible to everyone:
+
+- Financial aid program for those who need it
+- Childcare services during the conference
+- Accessible venue facilities
+- Live captioning for talks
+- Hybrid format with online participation options
+
+## 🌍 Environmental Responsibility
+
+We're committed to reducing our environmental impact:
+
+- Digital-first approach to materials
+- Encouraging sustainable travel options
+- Working with eco-conscious suppliers
+- Minimizing conference waste
+
+## 🤝 Get Involved
+
+There are many ways to participate:
+
+- Volunteer during the conference
+- Sponsor the event
+- Submit a talk or tutorial proposal
+- Join as an attendee
+- Spread the word in your community
+
+## 🏠 Our Roof Organizations
+
+**Python Software Verband e.V.**  
+The German Python Software Association promotes Python programming language and its ecosystem in German-speaking regions
+through education, events, and community building.
+Website: [Python Software Verband e.V.](https://www.python-verband.org/)
+
+**NumFOCUS Inc.**  
+A nonprofit supporting innovative open-source scientific computing projects, including numpy, pandas, matplotlib, and
+many other core tools in the Python scientific stack.
+Website: [NumFOCUS](https://numfocus.org/)
+
+**Pioneers Hub gGmbH**  
+A non-profit organization dedicated to building and supporting communities of experts in technology and research,
+fostering knowledge sharing and innovation.
+Website: [Pioneers Hub](https://www.pioneershub.org/en/)
+
+---
+
+Join us in making PyCon DE & PyData 2025 an unforgettable experience for the Python community!
+
+--- 
 ## A Big Thank You
 
 It is based on the experience of running and co-organizing events like [PyCon DE](https://de.pycon.org/),
@@ -85,7 +158,6 @@ These awesome people have contributed to content this documentation was built up
 [Theodore Meynard](https://github.com/orgs/PYCONDE/people/terezaif): Diversity, Swag;
 [Valentina Scipione](https://github.com/astrovale): On-Site;
 
-
 We missed mentioning you?   
 We value all contributions to this project, including those made in the past. If you have contributed to
 community-driven conferences or this playbook in the past and would like to be acknowledged:
@@ -96,7 +168,6 @@ community-driven conferences or this playbook in the past and would like to be a
     - "I contributed the section on volunteer management of this playbook"
 
 We'll review your pull request and merge it if appropriate.
-
 
 ## Who We Are
 

@@ -11,9 +11,7 @@ passionate individuals who want to contribute to its success.
 We value diversity and strongly encourage people from underrepresented groups to apply. Whether you’re an expert in your
 field or eager to learn and grow with us, there’s a place for you on our team.
 
-The Committees
-
-Here’s the adjusted list with () and [] switched as requested:
+## The Committees
 
 - :fontawesome-solid-shield: [Code of Conduct](code-of-conduct.md)
 - :fontawesome-solid-paper-plane: [Communication](communication.md)

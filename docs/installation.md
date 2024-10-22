@@ -13,24 +13,25 @@ These parts of the repository need to be customized to your conference:
 
 ##### GitHub
 
-- [ ] Update the `README.md` with your conference name and description to avoid confusion.
+- [x] Update the `README.md` with your conference name and description to avoid confusion.
   Remove anything that is not relevant to your conference.
   We appreciate if you keep the _Community Playbooks by Pioneers Hub_ section at the bottom.
-- [ ] Update site configuration in the `mkdocs.yml`:
-    - [ ] site_name: Your conference name
-    - [ ] site_url: This is where your conference website will be
+- [x] Update site configuration in the `mkdocs.yml`:
+    - [x] site_name: Your conference name
+    - [x] site_url: This is where your conference website will be
       hosted: https://your-github-nick.github.io/conference-3000/
-    - [ ] site_author, site_description,
-    - [ ] repo_name: your-github-nick/conference-3000
-    - [ ] repo_url: https://github.com/your-github-nick/conference-3000
-    - [ ] nav: Leave this for now. This is only required if you remove, rearrange or add pages.
-    - [ ] copyright: Update with your name or organization.
-- [ ] Update the conference configuration, [see below for detailed instructions](#configuration)
-- [ ] Replace the conference logo to the `assets/images/` folder with the file name `social_card_logo.png`.
-- [ ] Follow the instructions in docs/installation.md to set up your [environment](#environment), see below.
+    - [x] site_author, site_description,
+    - [x] repo_name: your-github-nick/conference-3000
+    - [x] repo_url: https://github.com/your-github-nick/conference-3000
+    - [x] nav: Leave this for now. This is only required if you remove, rearrange or add pages.
+    - [x] copyright: Update with your name or organization.
+- [x] Update the conference configuration, [see below for detailed instructions](#configuration)
+- [x] Update the `pyproject.toml` file with your conference name and description.
+- [x] Replace the conference logo to the `assets/images/` folder with the file name `social_card_logo.png`.
+- [x] Follow the instructions in docs/installation.md to set up your [environment](#environment), see below.
       This is required to build the documentation.
-- [ ] Create the website, see [Publishing below](#publishing).
-- [ ] The website is hosted on GitHub pages. Enable GitHub pages in the repository settings.
+- [x] Create the website, see [Publishing below](#publishing).
+- [x] The website is hosted on GitHub pages. Enable GitHub pages in the repository settings.
 
 ## Environment
 
