@@ -1,5 +1,10 @@
 # Event Timeline
 
+!!! warning "This is not there, yet"
+    This is a preliminary timeline as we just get started.
+    --- 
+    Attendees and speakers: **ALWAYS refer to miles stone published at [pycon.de](https:/pycon.de)**
+
 ## Pre-Conference Phase
 
 :calendar: **{{config.extra.committees.program.workload.start}}** - Call for Proposals Opens

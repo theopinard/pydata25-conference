@@ -80,7 +80,6 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.path
-  site_url: https://pioneershub.github.io/pytube/
 
 markdown_extensions:
   - attr_list

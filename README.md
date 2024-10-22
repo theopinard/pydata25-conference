@@ -1,8 +1,16 @@
 [![Deploy Docs](https://github.com/PioneersHub/conference/actions/workflows/ci.yml/badge.svg)](https://github.com/PioneersHub/conference/actions/workflows/ci.yml)
 
-# Conference
+# PyCon DE & PyData Conference Playbook & Guidelines
 
-Playbook how to run a volunteer-driven conference
+This playbook is our public reference for how we run our volunteer-driven conference.
+By sharing our experience we hope to help others to run their own conference.
+
+We aim to update and refine this playbook continuously.
+We always are motivated to share our knowledge and experience with others.
+
+We are considerate in publishing guidelines and policies that could be misused and share them within the team (and
+future teams) of our volunteer organisation in out protected workspace.
+We act responsibly by not sharing confidential or private information,
 
 ## How To Use
 
@@ -12,8 +20,8 @@ Fork this repository and adapt the content to your needs.
 
 ## Attribution
 
-This document draws on years of experience from organizing of running and co-organizing events since like 
-[PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) 
+This document draws on years of experience from organizing of running and co-organizing events since like
+[PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org)
 and [PyData Berlin](https://berlin.pydata.org).
 
 These awesome people have contributed to content this documentation was built upon:
@@ -67,3 +75,15 @@ MKDocs is used to generate the documentation.
 
 Extra features are added with the Material for MkDocs theme.  
 [MKDocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+## Community Playbooks by Pioneers Hub
+
+This playbook was created by [Pioneers Hub](https://www.pioneershub.org/en/) based on the content of many awesome
+people.
+Pioneers Hub is an organization dedicated to building and nurturing communities of experts in tech and research.
+The goal is to facilitate knowledge sharing, collaboration, and innovation.
+
+Check out the [Pioneers Hub GitHub repository](https://github.com/PioneersHub) to check more templates and tools
+like this to build and maintain healthy communities.
+
+![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
