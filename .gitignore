@@ -1,0 +1,8 @@
+# pixi environments
+.pixi
+*.egg-info
+
+site
+.idea
+.cache
+.DS_Store
