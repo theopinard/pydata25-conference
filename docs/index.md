@@ -7,6 +7,11 @@ hide:
 # :fontawesome-solid-book-atlas: About PyCon DE & PyData 2025
 
 ## 🚨 This is the Public Documentation for PyCon DE & PyData 2025, not the Website!
+
+!!! info
+    After some awesome years in Berlin, it was time to move on.  
+    **The conference will take place 23. - 25. April in Darmstadt, Germany.**
+
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
 In case you are looking for the conference website to attend or speak  please visit [pycon.de](https://pycon.de).
 
@@ -18,9 +23,9 @@ Community, ethics, our conference covers a wide range of topics.
 
 This joint conference is organized by:
 
-- **Python Software Verband e.V.** - The German Python Software Association
-- **NumFOCUS Inc.** - Supporting scientific computing and data science
-- **Pioneers Hub gGmbH** - Fostering innovation and community building
+- **[Python Software Verband e.V.](https://www.python-verband.org/){:target="blank"}** - The German Python Software Association
+- **[NumFOCUS Inc.](https://numfocus.org/){:target="blank"}** - Supporting scientific computing and data science
+- **[Pioneers Hub gGmbH](https://www.pioneershub.org/en/){:target="blank"}** - Non-profit fostering innovation and community building
 
 ## 🎯 Our Vision
 
