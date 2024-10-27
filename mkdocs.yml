@@ -1,12 +1,12 @@
 ---
 site_name: Conference
-site_url: https://pioneershub.github.io/conference/
+site_url: https://pioneershub.github.io/pyconde25-conference/
 site_author: Alexander Hendorf
 site_description: >-
   Template for organizing a volunteer-driven conference.
 # Repository
-repo_name: PioneersHub/conference
-repo_url: https://github.com/PioneersHub/conference
+repo_name: PioneersHub/pyconde25-conference
+repo_url: https://github.com/PioneersHub/pyconde25-conference
 
 #
 nav:
@@ -143,5 +143,5 @@ hooks:
 
 # Copyright
 copyright: >
-  Copyright &copy; 2024 Pioneers Hub gGmbH –
+  Copyright &copy; 2024 Pioneers Hub gGmbH / Python Softwareverband e.V. –
   <a href="#__consent">Change cookie settings</a>

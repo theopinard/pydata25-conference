@@ -1,7 +1,7 @@
 ---
 icon: fontawesome/solid/people-group
 ---
-# :fontawesome-solid-people-group: Committees - General Information
+# Volunteer Committees
 
 The committees are the driving force behind the conference, responsible for shaping its many facets. We’re seeking
 passionate individuals who want to contribute to its success.
