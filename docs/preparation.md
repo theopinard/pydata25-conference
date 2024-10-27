@@ -15,6 +15,10 @@ Committees are listed in [/committees](committees/index.md).
 - Review and refine roles and responsibilities
 - Review Committees and refine tasks
 - Setup Tools for team to collaborate
+- Reach out to potential committee members:
+  - Previous committee members
+  - Past attendees
+  - Public call on social media
 
 ## Call for Volunteers
 The call for people who help during the conference. 
@@ -24,6 +28,10 @@ It does not make sense to call for volunteers too early.
 - Review and refine responsibilities for the venue
 - How many volunteers will we need?
 - Setup Tools for team to collaborate
+- Reach out to potential volunteers:
+  - Previous volunteers
+  - Past attendees
+  - Public call on social media
 
 ## Logo and Branding
 Prepare the logo and branding for the conference.
@@ -39,5 +47,34 @@ Update the social media channels with:
  - update the branding
 
 ### Channels
-- [X](https://x.com/pyconde) 
-- [LinkedIn](https://www.linkedin.com/company/pyconde)
+- X
+  - [PyConDE](https://x.com/pyconde) 
+  - [PyData](https://x.com/pydata)
+  - [PySV](https://x.com/@PythonSV)
+- LinkedIn
+  - [PyConDE](https://www.linkedin.com/company/pyconde)
+  - [PyData](https://www.linkedin.com/company/pydata/)
+  - [PySV](https://www.linkedin.com/company/pythonsv)
+  - [Pioneers Hub](https://www.linkedin.com/company/pioneers-hub)
+- Conference Discord
+- YouTube
+- Community Partners' Networks:
+  - EuroPython
+    - [LinkedIn](https://www.linkedin.com/company/europython/)
+    - [Twitter](https://twitter.com/europython)
+  - PyLadies
+  - Python Software Foundation
+  - PyData Amsterdam:
+    - [LinkedIn](https://www.linkedin.com/company/pydataamsterdam)
+  - PyData Berlin:
+    - [LinkedIn](https://www.linkedin.com/company/pydata-berlin/)
+  - PyData London:
+    - [LinkedIn](https://www.linkedin.com/company/pydata-london/)
+  - PyData Global:
+    - [LinkedIn](https://www.linkedin.com/company/pydata-global/)
+  - PyData Paris:
+    - [LinkedIn](https://www.linkedin.com/company/pydata-paris/)
+  - Pydata Eindhoven:
+    - [LinkedIn](https://www.linkedin.com/company/pydata-eindhoven/)
+  - Meetup
+  
