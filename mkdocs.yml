@@ -1,9 +1,9 @@
 ---
-site_name: Conference
+site_name: PyCon DE & PyData Conference
 site_url: https://pioneershub.github.io/pyconde25-conference/
 site_author: Alexander Hendorf
 site_description: >-
-  Template for organizing a volunteer-driven conference.
+  Docs for organizing our volunteer-driven event.
 # Repository
 repo_name: PioneersHub/pyconde25-conference
 repo_url: https://github.com/PioneersHub/pyconde25-conference
@@ -39,6 +39,8 @@ nav:
           - Grants-Guidelines: guidelines/grants.md
       - Infrastructure:
           - Infrastructure: guidelines/infrastructure.md
+      - On-Site Operations:
+          - On-Site Operations: guidelines/on-site-ops.md
       - Sponsoring:
           - Sponsoring: guidelines/sponsoring.md
       - Volunteers:
