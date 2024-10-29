@@ -194,14 +194,13 @@ Always include who will see the information and if it will be published.
     For example, dietary restrictions of a speaker are not required for the review process and is usually collected via the tickets.  
     
 
-#### Proposals
 
 We add the following questions to the proposals (1).
 { .annotate }
 
 1. There are also custom questions to be added for the speaker profile.
 
-##### Expected audience expertise: Domain
+#### Expected audience expertise: Domain
 
 > The domain expertise your audience should have to follow along.
 
@@ -209,9 +208,9 @@ We add the following questions to the proposals (1).
 - Intermediate
 - Advanced
 
-Visible to: :fontawesome-solid-world:
+Visible to: :fontawesome-solid-globe: world
 
-##### Expected audience expertise: Python
+#### Expected audience expertise: Python
 
 > How experienced should the audience be in Python programming?
 
@@ -219,63 +218,170 @@ Visible to: :fontawesome-solid-world:
 - Intermediate
 - Advanced
 
-Visible to: world
+Visible to: :fontawesome-solid-globe: world
 
-##### Notes for reviewers only
+#### Prerequisites
+
+> Things the attendees should know before visiting for the talk
+
+We want to promote speakers spend the talk time on the content and not start on the basics.
+
+Visible to: :fontawesome-solid-globe: world
+
+---
+
+####  Abstract as a tweet (X) or toot (Mastodon)
+
+> Short description of your abstract one could tweet
+ 
+Text to promote the session on social media. Maybe LLMs can do this for us in the future.
+
+Visible to: :fontawesome-solid-globe: world
+
+---
+
+#### Notes for reviewers only
 
 > Anything you like to share with the reviewers only - will not be published. Do not include any personal information.
 
 Text
 
-Visible to: committee and reviewers only
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
 
-#####  Abstract as a tweet (X) or toot (Mastodon)
+#### Public link to supporting material, e.g., videos, GitHub, etc.
 
-> Short description of your abstract one could tweet
- 
-Text to promote the session on social media.
+Optional, material to support the proposal.
 
-- Prerequisites the attendees should know before visiting for the talk
-- Public link to supporting material, e.g., videos, GitHub, etc.
-- Link to talk slides
-- Confirmation of being original content
-- Have you given this talk before?
-- Would you give this talk at a local meetup?
-- Remote talk? (Y/N)
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
 
-#### Speakers
+#### Link to talk slides
+
+Optional, material to support the proposal.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+---
+
+#### Fresh content
+
+- [Y/N] Was this proposal presented already and recorded?
+
+We try to avoid repeating content that is already available.
+This is not a strict policy, depending on the topic the on-site discussion might be valuable.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+####  Would you give this talk at a local meetup?
+
+> Perfect your presentation by giving it at a local meetup and support local communities.
+
+The conference gives us a lot of exposure. 
+We want to use this to support local communities that often lack speakers. (1)
+{ .annotate }
+
+1.    Location is required for matching a question in the speaker profile.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+---
+
+#### Honor-code original work
+
+- [x] I hereby declare that this proposal is my own original work
+
+> Confirmation of being original content
+
+Quality assurance: presenting other people's blog posts or work is not considered original content.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+#### No-Remote
+
+- [x] I will present my talk on site
+
+> Accepted speakers are required to present on site.
+
+Double-confirmation to manage expectations.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+#### Code of Conduct
+
+- [x] I have read and agree to the Code of Conduct
+
+> This is a must to attend the conference. Must be accepted.
+
+Visible to: :fontawesome-solid-user-secret: committee members and reviewers only
+
+---
+
+### Speakers
 
 Speakers need to answer questions only once.
 
-Some examples:
+Speaker questions are simple questions.
+
+#### Private Questions
+
+All text answers except where noted, visible to: :fontawesome-solid-user-secret: committee members and reviewers only
 
 - How should we address you? (pronouns)
 - Company / Institution
 - Job title
-- Homepage
-- LinkedIn / X / GitHub / Mastodon / …
 - Country of residence
 - City of residence
-- What is the format of the talk?
 - Do you identify as a member of an underrepresented group?
-- Are you a first-time speaker?
-- Are you an organizer of the local community?
-- Age (ranges)
+- [x] Are you a first-time speaker?
+- Community contributions (organizer, open-source, etc.)
+- Age, ranges:
+    - 18-25
+    - 26-35
+    - 36-45
+    - 46-55
+    - 56-65
+    - 66 and older
+
+#### Public Questions
+
+All text answers, visible to: :fontawesome-solid-globe: world
+
+- Name
+- Biography
+- Homepage
+- LinkedIn 
+- X
+- GitHub
+- Mastodon
+
 
 ## Session Types
 
-Add descriptive session types, for example:
+We use the following descriptive session types:
 
-- 30-minute talk
-- 45-minute talk
-- 60-minute talk
-- 3-hour workshop
-
-**Make sure to set the duration for each type.**
+|             |   duration |
+|-------------|-----------:|
+| talk        | 30 minutes |
+| talk (long) | 45 minutes |
+| tutorial    | 90 minutes |
 
 Some sessions are invited or organized not via the CfP. 
-Hidden types are useful for this, for example:
 
-- keynote
-- sponsored talk
-- panel
+Private types are:
+
+|                       |   duration |
+|-----------------------|-----------:|
+| keynote               | 45 minutes |
+| sponsored talk        | 30 minutes |
+| sponsored talk (long) | 45 minutes |
+| sponsored tutorial    | 90 minutes |
+| panel                 | 60 minutes |
+
+## Sponsored Talks
+
+Sponsored talks are a great way to support the conference and get your message as a sponsor out.
+
+The Program Committee will work actively with the sponsors to ensure the content is valuable to the attendees.
+
+Sponsored content is moderate and accounts for about 10% of the overall program.
+
+---

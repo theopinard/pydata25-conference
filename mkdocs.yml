@@ -80,12 +80,12 @@ theme:
     primary: custom
   features:
     - content.tooltips
+    - content.tabs.link
     - navigation.instant
     - navigation.tracking
     - navigation.sections
     - navigation.tabs
     - navigation.path
-
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
