@@ -85,7 +85,7 @@ smoothly. Overall, the workload is manageable and can be distributed across the 
 tasks or urgent issues that may arise.
 
 * Preparations: a few hours per week
-* Conference: depending on preparation beforehand more or less workload.
+* Conference: depending on preparation beforehand, more or less workload.
 
 ### Timeline
 
