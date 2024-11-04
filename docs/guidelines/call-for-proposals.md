@@ -39,6 +39,17 @@ Based on participant stats and feedback, we are looking for a mix of beginner, i
 
 In 2024, the participants self-assessed as follows:
 
+
+=== "Cross-Functional Knowledge" 
+
+    | Python            |   Python |              |          |         |
+    |-------------------|---------:|-------------:|---------:|--------:|
+    | Data Science & AI | beginner | intermediate | advanced |   total |
+    | beginner          |    5.32% |        8.70% |    5.53% |  19.55% |
+    | intermediate      |    1.77% |       27.87% |   14.07% |  43.72% |
+    | advanced          |    0.11% |        8.27% |   28.36% |  36.73% |
+    |                   |    7.20% |       44.84% |   47.96% | 100.00% |
+
 === "Python Knowledge"
 
     | expertise | Percentage |
@@ -54,16 +65,6 @@ In 2024, the participants self-assessed as follows:
     | beginner          |    19,55% |
     | intermediate	     |    43,72% |
     | advanced	         |    36,73% |
-
-=== "Cross-Functional Knowledge" 
-
-    | Python            |   Python |              |          |         |
-    |-------------------|---------:|-------------:|---------:|--------:|
-    | Data Science & AI | beginner | intermediate | advanced |   total |
-    | beginner          |    5.32% |        8.70% |    5.53% |  19.55% |
-    | intermediate      |    1.77% |       27.87% |   14.07% |  43.72% |
-    | advanced          |    0.11% |        8.27% |   28.36% |  36.73% |
-    |                   |    7.20% |       44.84% |   47.96% | 100.00% |
 
 
 The following numbers are estimates and can be adjusted based on the submissions received.
