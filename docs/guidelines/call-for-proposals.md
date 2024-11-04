@@ -69,7 +69,6 @@ In 2024, the participants self-assessed as follows:
 
 The following numbers are estimates and can be adjusted based on the submissions received.
 
---> DRAFT <----
 
 | topic        | percentage | 
 |--------------|------------|
