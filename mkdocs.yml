@@ -29,19 +29,21 @@ nav:
       - Operational Models: committees/operational-model.md
   - Guidelines:
       - guidelines/index.md
+      - Diversity:
+          - Grant-Applications: guidelines/grant-applications.md
+          - Grants-Guidelines: guidelines/grants.md
+      - Governance:
+          - Governance: guidelines/governance.md
+      - Infrastructure:
+          - Infrastructure: guidelines/infrastructure.md
+      - On-Site Operations:
+          - On-Site Operations: guidelines/on-site-ops.md
       - Program:
           - Call for Proposals: guidelines/call-for-proposals.md
           - Pretalx for CfP: guidelines/pretalx.md
           - Submissions: guidelines/submissions.md
           - Reviewer Guidelines: guidelines/reviewers.md
           - Community Voting: guidelines/community-voting.md
-      - Diversity:
-          - Grant-Applications: guidelines/grant-applications.md
-          - Grants-Guidelines: guidelines/grants.md
-      - Infrastructure:
-          - Infrastructure: guidelines/infrastructure.md
-      - On-Site Operations:
-          - On-Site Operations: guidelines/on-site-ops.md
       - Sponsoring:
           - Sponsoring: guidelines/sponsoring.md
       - Volunteers:

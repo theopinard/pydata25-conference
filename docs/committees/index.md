@@ -20,7 +20,7 @@ field or eager to learn and grow with us, there’s a place for you on our team.
 - :fontawesome-solid-people-group: [On-Site Operations](on-site-ops.md)
 - :fontawesome-solid-chalkboard: [Program](program.md)
 - :fontawesome-solid-compass: [Steering](steering.md)
-- :fontawesome-solid-shirt: [Swag](#swag.md)
+- :fontawesome-solid-shirt: [Swag](swag.md)
 - :fontawesome-solid-video:  [Video](video.md)
 
 ---
