@@ -37,6 +37,31 @@ Through proper infrastructure and clear policies, we ensure both data protection
 
 ---
 
+## Governance Structure
+
+The governance structure reflects the committee structure to simplify the organization and communication.
+I.e., all members of a committee are organized in groups.
+
+```mermaid
+flowchart TD
+    G["Conference"]
+    S["Steering Committee"]
+    D["Diversity Committee"]
+    B["Program Committee"]
+    C["Video Committee"]
+    X["… Committee"]
+    O["Office"]
+    
+    G --> S
+    G ---> O
+    S --> C
+    S --> X
+    S --> D
+    S --> B
+```
+
+---
+
 We trust people to act responsibly and professionally.  
 We grant access to a need-to-know basis and expect volunteers to respect the privacy of others.
 

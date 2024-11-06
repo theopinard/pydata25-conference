@@ -21,7 +21,12 @@ Starting with the 2025 conference, we implemented and will to evaluate the follo
 - Group access control for all files and folders
 - Group access for tools like Google Calendar, Meet, and Drive in a unified workspace
 - Shared inboxes and distribution lists for conference communication
-- Conference `@pycon.de` email addresses for all committee members
+- Account options: 
+  - conference `@pycon.de` account for committee members
+  - existing Google accounts can be added as guest accounts as well.
+
+Using the committee group email address (your_committee25@pycon.de) you can invite
+all committee members to a meeting, for example. 
 
 This way, it's straightforward to manage access control and ensure that all data is owned by the conference and not by individual volunteers.
 
