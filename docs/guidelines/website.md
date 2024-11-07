@@ -81,21 +81,45 @@ We use [`pytanis` to access the Pretalx API](https://github.com/PioneersHub/pyta
 
 The website contains content from multiple sources.
 
-| **Content**        | **Description**            | **Source**  | **Added**       | **comment** |
-|--------------------|----------------------------|-------------|-----------------|-------------|
-| home               | Front page                 | html        | manually        |             |
-| home / sponsors    | Sponsor logos              | databag     | generated       |             |
-| blog               | Blog posts                 | markdown    | manually via PR |             |
-| FAQs               | Frequently asked questions | markdown    | manually        |             |
-| sponsors           | Sponsor information        | databag     | generated       |             |
-| program (most)     | Program information        | Pretalx API | generated       |             |
-| program / schedule | Schedule information       | Pretalx     | redirect        |             |
-| speakers           | Speaker information        | Pretalx API | -not yet-       |             |
-| info (most)        | General information        | markdown    | manually        |             |
-| info / team        | Team information           | databag     | generated       |             |
-| register           | Register information       | Tito        | redirect        | to inline   |
+| **Content**        | **Description**            | **Source**  | **Added**       | **comment**             |
+|--------------------|----------------------------|-------------|-----------------|-------------------------|
+| home               | Front page                 | html        | manually        |                         |
+| home / sponsors    | Sponsor logos              | databag     | generated       |                         |
+| blog               | Blog posts                 | markdown    | manually via PR |                         |
+| FAQs               | Frequently asked questions | markdown    | manually        | long page, split/filter |
+| sponsors           | Sponsor information        | databag     | generated       |                         |
+| program (most)     | Program information        | Pretalx API | generated       |                         |
+| program / schedule | Schedule information       | Pretalx     | redirect        |                         |
+| speakers           | Speaker information        | Pretalx API | -not yet-       |                         |
+| info (most)        | General information        | markdown    | manually        |                         |
+| info / team        | Team information           | databag     | generated       |                         |
+| register           | Register information       | Tito        | redirect        | to inline               |
 
 
 databag: JSON files manually maintained with structured data for navigation, sponsors, etc.
+
+---
+
+## Milestones / Website Requirements
+
+### 2024-11-24 Launch of CfP
+- Home page with sponsors
+- Blog
+- sponsors page
+- FAQs
+- info page, imprint, code of conduct.
+
+
+### 2024-01-15 Ticket sales
+- register page
+- team page
+
+### 2024-02-01
+- program pages
+- speakers pages
+
+### 2024-03-01
+- schedule page
+
 
 ---
