@@ -4,8 +4,10 @@ icon: fontawesome/solid/window-restore
 ---
 # Website Guidelines
 
+## How to Contribute / Add Content
+
 !!! warning
-    This document is in part a work in progress.
+    This is work in progress.
 
 ## 2025 Briefing / Introduction
 
