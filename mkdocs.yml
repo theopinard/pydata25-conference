@@ -51,6 +51,8 @@ nav:
           - Call for Volunteers: guidelines/volunteers-call.md
       - Video:
           - Video-Guidelines: guidelines/video.md
+      - Website:
+          - Website: guidelines/website.md
   - Office:
       - office/index.md
       - Communication: office/communication.md
