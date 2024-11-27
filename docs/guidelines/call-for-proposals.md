@@ -9,17 +9,17 @@ We would like to provide the following instructions in the CfP to clarify what w
 
 Content related:
 
- - topics of interest
- - submission types (30-minute talks, 3-hour workshop, etc.)
- - levels of expertise (beginner, intermediate, advanced)
+- topics of interest
+- submission types (30-minute talks, 3-hour workshop, etc.)
+- levels of expertise (beginner, intermediate, advanced)
 
 Non-content related:
 
- - perks for accepted speakers (free ticket, etc.)
- - perks not to expected (no travel reimbursement, etc.) - _other conferences might offer this_
- - mentoring offers for first-time speakers
- - diversity and inclusion efforts (grants, etc.)
- - inclusion (e.g., childcare, accessibility)
+- perks for accepted speakers (free ticket, etc.)
+- perks not to expected (no travel reimbursement, etc.) - _other conferences might offer this_
+- mentoring offers for first-time speakers
+- diversity and inclusion efforts (grants, etc.)
+- inclusion (e.g., childcare, accessibility)
 
 ## :fontawesome-solid-gavel: Policies
 
@@ -36,11 +36,9 @@ Based on participant stats and feedback, we are looking for a mix of beginner, i
 | intermediate | Regular user, familiar with common concepts, can solve typical problems |
 | advanced     | Extensive experience, deep understanding, can handle complex scenarios  |
 
-
 In 2024, the participants self-assessed as follows:
 
-
-=== "Cross-Functional Knowledge" 
+=== "Cross-Functional Knowledge"
 
     | Python            |   Python |              |          |         |
     |-------------------|---------:|-------------:|---------:|--------:|
@@ -58,7 +56,7 @@ In 2024, the participants self-assessed as follows:
     | intermediate	    |     44,84% |
     | advanced	        |     47,96% |
 
-=== "Data Science & AI Knowledge" 
+=== "Data Science & AI Knowledge"
 
     | expertise | Percentage |
     |-------------------|----------:|
@@ -66,9 +64,7 @@ In 2024, the participants self-assessed as follows:
     | intermediate	     |    43,72% |
     | advanced	         |    36,73% |
 
-
 The following numbers are estimates and can be adjusted based on the submissions received.
-
 
 | topic        | percentage | 
 |--------------|------------|
@@ -84,7 +80,7 @@ we will work towards it with designated groups.
 ### Beginners
 
 We want to work on dedicated formats for beginners
-that offer a suitable environment for them to present and learn.    
+that offer a suitable environment for them to present and learn.
 
 ### Intermediate & Advanced Topics
 
@@ -95,7 +91,7 @@ We would like to ask the speakers of intermediate and advanced topics to:
 
 ### First-Time Speakers
 
-We want to encourage first-time speakers to submit their proposals. 
+We want to encourage first-time speakers to submit their proposals.
 We offer mentorship opportunities and will work with first time speakers to improve your submission if necessary.
 
 ### One Presentation per Speaker
@@ -113,116 +109,147 @@ We likely **do not accept** presentations that:
 
 - are available on video already or will be soon. Fresh content is preferred.
 
-
 ## :fontawesome-solid-handshake: Trust
 
-We trust speakers to provide accurate information about their presentation. 
+We trust speakers to provide accurate information about their presentation.
 Submitting misleading or false information undermines our trust in the submission. :fontawesome-solid-handshake-slash:
 
 --- 
 
 ## Call for Proposals: {{config.extra.event.event_name}}
 
-**Conference Dates: {{config.extra.event.start_date}} - {{config.extra.event.end_date}}**
+Our 2025 conference will take place in Darmstadt (close to Frankfurt), as a joint effort between PyCon DE and PyData
+offering dedicated tracks for diverse interests, with both on-site and remote access for attendees. Please note, while
+attendees can choose their mode of participation, presenters **must** deliver their sessions on-site.
 
-**Location: {{config.extra.event.location}}**
+Please go to our [Pretalx website](https://pretalx.com/pyconde-pydata-2025/cfp) to submit your proposals. You will need
+to set up an account there (it can be deleted by you anytime), and you can edit your proposals until the Call for
+Proposals closes.
 
-### About the Conference
+Please feel free to forward this call to anyone you think might be interested in submitting a proposal.
 
-Our conference offers dedicated tracks for various interests, with both on-site and remote access for attendees. While
-attendees can choose how they participate, presenters are required to deliver their sessions in person at the venue.
+**PyConDE** brings together developers, DevOps, scientists, and individuals from the Python community to discuss
+application techniques, updates to the language, further Open Source development, and the community. Our talks often
+include new features of the Python language, new libraries, security, testing, web, and programming & software
+engineering in general.
 
-To submit your proposal, scroll down to the **Submit a proposal** button. Feel free to forward this call to anyone you
-think might be interested in contributing.
+**PyData** brings together analysts, scientists, developers, engineers, researchers, enthusiasts and individuals from
+the AI & Data Science community to discuss applications of new tools and techniques. Our talks often include data
+management, analytics, visualisation as well as new machine learning, statistical, and deep learning approaches.
 
-Our event brings together developers, data scientists, engineers, and enthusiasts from different fields to discuss a
-wide range of topics. Talks cover various technical advancements, community development, and insights from practical
-applications. The sessions are designed to cater to a broad audience, from beginners to experts, with a focus on sharing
-knowledge, tools, and experiences.
+#### **Conference Tracks & Topics of Interest**
 
-### Conference Tracks & Topics of Interest
+The conference will feature three main tracks.
 
-The conference will feature multiple tracks with around **100 talks** in total. You can submit your proposal under the
-following tracks:
+1. PyData
+2. PyCon
+3. General
 
-- **Technology & Software Development**
-- **Data Science & Machine Learning**
-- **Community, Diversity & Inclusion**
-- **Ethics, Privacy, and Career**
-- **Infrastructure & Cloud**
-- **Industry & Academia Use Cases**
-- **Others (for topics that don't fit into the above categories)**
+Tutorials can be given in each of the tracks above. In order to simplify the review process and the creation of the
+program, you must select a track:topic for your talk from the list below:
 
-We encourage presentations on a variety of topics related to programming, software engineering, data science, machine
-learning, and more. Our aim is to provide a diverse range of content that includes both technical and community-related
-topics.
+- PyCon: MLOps & DevOps
+- PyCon: Programming & Software Engineering
+- PyCon: Python Language & Ecosystem
+- PyCon: Security
+- PyCon: Testing
+- PyCon: Django & Web
+- PyData: Data Handling & Data Engineering
+- PyData: Machine Learning & Deep Learning & Statistics
+- PyData: Natural Language Processing & Audio (incl. Generative AI NLP)
+- PyData: Computer Vision (incl. Generative AI CV)
+- PyData: Generative AI
+- PyData: Embedded Systems & Robotics
+- PyData: PyData & Scientific Libraries Stack
+- PyData: Visualisation & Jupyter
+- PyData: Software Engineering Research
+- General: Community & Diversity
+- General: Education, Career & Life
+- General: Ethics & Privacy
+- General: Infrastructure \- Hardware & Cloud
+- General: Others
 
-### Presentation Format
+We also welcome presentations focusing on a variety of topics all around Python and Data (incl. languages as R, Julia,
+Scala, and Rust). To see the presentation of previous events, please look at our past conference videos on YouTube
+at [PyData](https://www.youtube.com/user/PyDataTV/), [PyConDE](https://www.youtube.com/pyconde).
 
-Presentations can be at: **novice, intermediate, or advanced levels**. Talks will have two possible lengths: either **30
-or 45
-minutes**. Hands-on **tutorials** will be **90 minutes** long. While attendees can join remotely, all presenters are
-required to
-deliver their sessions in person.
+#### **Presentation Format**
 
-Accepted presentations will receive **one free conference ticket**. Additional speakers must purchase a ticket. While we
-cannot cover travel expenses, we do offer a
-diversity travel program and encourage speakers from diverse backgrounds to apply for funding.
+Presentation content can be at a novice, intermediate or advanced level. Talks will have two possible lengths, either 30
+or 45 minutes, and hands-on tutorials will last 90 minutes. While attendees can participate remotely, we require all
+speakers to deliver their presentations in person at the conference venue. We encourage submissions aimed at a highly
+python-proficient target audience, following the insights from last year's attendee self-evaluation:
 
-### Submission Process
+* Beginner 20%
+* Intermediate 45%
+* Advanced 35%
 
-To submit your proposal, use the **Submit a proposal** button below. The conference committee will review all proposals
-and provide feedback if needed. We especially encourage first-time speakers and will work with you to improve your
-submission if necessary.
+Accepted submissions will receive one free ticket. Travel expenses will not be covered; however, we offer a support
+program aid and strongly encourage speakers, who may face financial barriers, to apply for travel funding when
+submitting your proposal.
 
-### Your Submission
+#### **Submission Process**
 
-Attendees typically pay close attention to the abstracts when deciding which talks to attend. Therefore, we recommend
-writing a clear and concise abstract that reflects the value of your talk. Your abstract will be published in the
-conference program as-is, though you may update it later.
+Please go to our [Pretalx website](https://pretalx.com/pyconde-pydata-2025/cfp) to submit your proposals through the
+webform. After the submission deadline, proposals will be peer-reviewed and later selected by the program committee.
 
-Please ensure that your content is original and has not been presented at other conferences. We aim to offer our
-attendees fresh and engaging ideas. Include key details such as:
+#### **Your Submission**
 
-- The problem your talk addresses.
-- Why the problem is relevant to the audience.
-- Your proposed solution.
-- The main takeaways from your talk (for tutorials, clearly state what attendees will learn).
+In our experience, attendees pay close attention to proposal abstracts when deciding which talks to attend during the
+conference. The submitted abstract will be published as is in the conference program (you can edit the submission
+later).
 
-### Important Dates
+We encourage contributors to submit content that is original and has not been previously presented or recycled from
+other events. We are committed to offering our attendees a program filled with fresh and engaging perspectives. To
+achieve this, we seek submissions that bring innovative ideas, practical insights, and unique experiences to our
+audience. We kindly ask potential presenters to refrain from submitting material that has already been shared at other
+conferences or events, ensuring that our conference remains a platform for new and valuable content. Submissions that do
+not adhere to this guideline will be automatically rejected.
 
-- **CfP opens: {{config.extra.event.cfp_open}}**
-- **Proposal Deadline: {{config.extra.event.cfp_close}}**
-- **Acceptance Notification: {{config.extra.event.cfp_speakers_notifications}}**
-- **Conference Dates: {{config.extra.event.start_date}} - {{config.extra.event.end_date}}**
+In your submission, please include details about the theory, concepts and/or practice you will discuss. Specifically, if
+the system you've built uses open source tools, please mention the libraries in the proposal and make it clear whether
+you will be presenting a case-study of their use or if you will discuss details of their design.
 
-### Childcare
+In general, conference attendees, as well as the review committee, should be able to answer these questions based on
+your submission:
 
-We are pleased to offer **all-day childcare** at the venue. During conference hours, a dedicated area with childcare
-professionals will be available. More information can be found on our website.
+* What problem is your talk addressing (are you talking about a well-known problem, or have you found something new
+  during a project)?
+* Why is the problem relevant to the audience?
+* What is (are) your solution(s) to the problem?
+* What are the main takeaways from your talk? For a tutorial submission, this is extremely important, please specify
+  what people will have learned at the end of the tutorial session.
 
-### Diversity & First-Time Speakers
+We recommend including an outline of your talk to help the audience assess the content and structure of your submission.
 
-We strongly encourage **first-time speakers and submissions from underrepresented groups** in the community. We are
-committed to supporting diversity and inclusion at our event and aim to offer mentorship opportunities for first-time
-speakers. Please stay tuned for updates.
+As a reminder, PyConDE and PyData presentations are intended to share knowledge and experience. To this end, we
+encourage the code and/or data that your talk relies on to be open-source. Ideally, the audience would have access to
+the necessary tools to reproduce the results of the talk. Also, we welcome talks focused on your own practical
+application of tools and concepts either at work or in your free time, but discourage sales-oriented proposals whose
+sole aim is to sell a product.
 
-### Diversity Travel Sponsorship
+#### **Important Dates**
 
-As a non-profit, volunteer-run conference, we have limited travel funding available through our diversity program. If
-you are interested in applying for travel support, visit our Diversity Program page. For companies interested in
-supporting diversity initiatives, there are **several sponsorship opportunities** available. Please reach out to us for
-more details.
+Talk Proposal Deadline:   22nd December 2024 23:59:59 CET   
+Acceptance Notification:   5th February 2025   
+Conference Dates:    23 \- 25th April 2025
 
-### Open Source
+#### **Childcare**
 
-Our event is committed to the **open-source community**. We encourage presenters to share the code and tools discussed
-in their talks. Ideally, the audience should have access to the necessary resources to reproduce your results. We also
-encourage talks that focus on practical applications of tools and discourage product-focused sales pitches.
+During conference hours, there will be childcare offered for free.
 
-We ask all participants to follow our [Code of Conduct](https://example.com/code-of-conduct), ensuring a welcoming and
-inclusive environment for everyone.
+#### **First-Time Speakers**
 
----
+We especially encourage first-time speakers and submissions by underrepresented members of the community.
 
-We look forward to receiving your proposal and hope to see you at the conference!
+#### **Travel Sponsorship**
+
+As a volunteer-run and non-profit supported conference, we cannot offer travel sponsorship for all speakers. However, as
+part of our diversity program, we do have a limited number of travel scholarships for attendees and speakers. You can
+learn more about the scholarship on our Diversity Program page, where you can submit an application.
+
+#### **Code of Conduct**
+
+We strive to maintain the Python community’s reputation for being welcoming, friendly, and supportive. To this end, we
+ask all attendees, organisers and sponsors to follow
+the [Code of Conduct](https://pioneershub.github.io/pyconde25-conference/code-of-conduct/).

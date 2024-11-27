@@ -17,7 +17,7 @@ For 2025 we want to create a new website, because:
  - we have a new design concept for the conference
 
 The new design guidelines for the conference design can be found in this PDF:
-[PyConDE-PyData-Konzept.pdf](../assets/docs/PyConDE-PyData-Konzept.pdf)
+[PyConDE-PyData-Konzept.pdf](../assets/files/PyConDE-PyData-Konzept.pdf)
 
 ![PyConDE-PyData-Konzept.png](../assets/images/guidelines/PyConDE-PyData-Konzept.png){ : style="width: 30%;"}
 

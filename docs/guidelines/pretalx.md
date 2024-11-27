@@ -153,7 +153,6 @@ Platforms as YouTube have a 100-character limit for titles, and it'd be hard to 
 - The abstract should give a concise overview of the talk.
 - Ranges from 200 to 1,500 characters are work well.
 - Point to not include speaker names or affiliations.
-- Point to put detailed outlines in the description
 
 ### Proposal Description
 
@@ -351,6 +350,8 @@ All text answers, visible to: :fontawesome-solid-globe: world
 - LinkedIn 
 - X
 - GitHub
+- BlueSky
+- Threads
 - Mastodon
 
 
