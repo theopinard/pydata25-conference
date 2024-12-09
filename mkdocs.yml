@@ -38,6 +38,8 @@ nav:
           - Infrastructure: guidelines/infrastructure.md
       - On-Site Operations:
           - On-Site Operations: guidelines/on-site-ops.md
+      - Post-Conference:
+          - Sponsoring: guidelines/post-conference.md
       - Program:
           - Call for Proposals: guidelines/call-for-proposals.md
           - Pretalx for CfP: guidelines/pretalx.md
