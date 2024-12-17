@@ -29,6 +29,8 @@ nav:
       - Operational Models: committees/operational-model.md
   - Guidelines:
       - guidelines/index.md
+      - Communication:
+          - Communication: guidelines/communication.md
       - Diversity:
           - Grant-Applications: guidelines/grant-applications.md
           - Grants-Guidelines: guidelines/grants.md
