@@ -4,9 +4,6 @@ icon: fontawesome/solid/hands-holding-circle
 ---
 # Grant-Applications
 
-!!! note
-    ==This is an example for a central European event, other regions may have other requirements.==
-
 ## Financial Aid Grants for Attendees
 
 As part of our commitment to the wider tech and data science community, we are pleased to offer special financial grants for attendees to join us at {{config.extra.event.event_name}}. Please follow the instructions below to apply for a grant.
@@ -15,8 +12,8 @@ We offer financial aid conference grants in the following categories:
 
 - **Online Ticket:** Get a standard online ticket for the conference at no cost.
 - **In-person Ticket:** Get a standard in-person ticket for the conference at no cost.
-- **Regional[^1] Travel and Accommodation Costs:** We will reimburse travel and accommodation costs up to ==400€== and additionally offer an on-site ticket.
-- **Intercontinental Travel and Accommodation Costs:** We will reimburse travel and accommodation costs up to ==800€== and additionally offer an on-site ticket.
+- **Regional[^1] Travel and Accommodation Costs:** We will reimburse travel and accommodation costs up to 400€ and additionally offer an on-site ticket.
+- **Intercontinental Travel and Accommodation Costs:** We will reimburse travel and accommodation costs up to 800€ and additionally offer an on-site ticket.
 
 While applying, we will ask you to estimate your travel and accommodation expenses.
 
@@ -57,7 +54,7 @@ Grants involving reimbursements will be processed based on approved receipts (e.
 
 **Please note:**
 
-- The maximum grant amount will not exceed ==400€/800€== per person, depending on the category.
+- The maximum grant amount will not exceed 400€/800€ per person, depending on the category.
 - If the grant is not accepted within the specified deadline, it will be considered rejected.
 - Only approved invoices will be reimbursed.
 - Reimbursements before the conference or via other means, such as cash, are not possible.

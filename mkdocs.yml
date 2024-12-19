@@ -27,6 +27,7 @@ nav:
       - Swag: committees/swag.md
       - Video: committees/video.md
       - Operational Models: committees/operational-model.md
+      - Inner- and Cross-Committee Communication: committees/team-communication.md
   - Guidelines:
       - guidelines/index.md
       - Communication:
@@ -40,6 +41,8 @@ nav:
           - Infrastructure: guidelines/infrastructure.md
       - On-Site Operations:
           - On-Site Operations: guidelines/on-site-ops.md
+          - Volunteers: guidelines/volunteers.md
+          - Call for Volunteers: guidelines/volunteers-call.md
       - Post-Conference:
           - Sponsoring: guidelines/post-conference.md
       - Program:
@@ -52,9 +55,6 @@ nav:
           - Sponsoring: guidelines/sponsoring.md
       - Swag:
           - Swag: guidelines/swag.md
-      - Volunteers:
-          - Volunteers: guidelines/volunteers.md
-          - Call for Volunteers: guidelines/volunteers-call.md
       - Video:
           - Video-Guidelines: guidelines/video.md
       - Website:
@@ -103,6 +103,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
   - admonition
+  - footnotes
   - pymdownx.magiclink
   - pymdownx.betterem
   - pymdownx.critic
