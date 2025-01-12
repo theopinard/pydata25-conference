@@ -8,7 +8,10 @@
 				"ms-toolsai.jupyter",
 				"ms-toolsai.jupyter-keymap",
 				"ms-toolsai.jupyter-renderers",
-				"eamodio.gitlens"
+				"github.vscode-github-actions",
+				"eamodio.gitlens",
+				"charliermarsh.ruff", 
+				"GitHub.copilot"
 			]
 		},
 		"settings": {
@@ -18,7 +21,8 @@
 	},
 	"postCreateCommand": "bash .devcontainer/init.sh",
 	"mounts": [
-		"type=bind,source=${localEnv:HOME}/.ssh,target=/root/.ssh"
+		"type=bind,source=${localEnv:HOME}/.ssh,target=/root/.ssh",
+		"source=${localWorkspaceFolderBasename}-pixi,target=${containerWorkspaceFolder}/.pixi,type=volume"
 	],
 	"remoteUser": "root"
 }
