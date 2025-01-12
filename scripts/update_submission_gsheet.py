@@ -37,7 +37,7 @@ f.close()
 # Combined configuration for pretalx and gsheets. 
 # TODO: Write jsons with secret and token
 cfg = {
-    'event_name': 'pyconde-pydata-2024',
+    'event_name': 'pyconde-pydata-2025',
     'selection_spread_id': gsheet_spread_id,
     'selection_work_name': gsheet_worksheet_name,
     'Pretalx': {
@@ -47,7 +47,6 @@ cfg = {
         'client_secret_json': 'client_secret.json',
         'token_json': 'token.json',
         'service_user_authentication': True
-
     }
 }
 
@@ -99,7 +98,7 @@ subs_df = pd.merge(subs_df, avg_scores, on=Col.submission)
 
 # Restructure the Sheet
 subs_df.drop(columns=['Q: Link to talk slides',
-                      'Q: X / Twitter handle',
+                    #   'Q: X / Twitter handle',
                       'Q: Mastodon',
                       'Q: I have read and agree to the Code of Conduct', 
                       'Created',
