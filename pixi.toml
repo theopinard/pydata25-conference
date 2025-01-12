@@ -10,7 +10,6 @@ version = "0.3.4"
 
 [tasks]
 postinstall = "pip install --no-build-isolation --no-deps --disable-pip-version-check -e ."
-gsheet = "python scripts/update_submission_gsheet.py ${{ github.event.inputs.pretalx_api_key }} ${{ github.event.inputs.gsheet_client_secret_json }} ${{ github.event.inputs.gsheet_spread_id }} ${{ github.event.inputs.gsheet_worksheet_name }}"
 
 [dependencies]
 python = "3.12.*"
