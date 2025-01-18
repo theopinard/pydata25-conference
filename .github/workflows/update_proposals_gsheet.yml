@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      PRETALX_API_KEY: ${{ secrets.PRETALX_API_KEY }}
-      GSHEET_CLIENT_SECRET_JSON: ${{ secrets.GSHEET_CLIENT_SECRET_JSON }}
-      GSHEET_SPREAD_ID: ${{ vars.GSHEET_SPREAD_ID }}
-      GSHEET_WORKSHEET_NAME: ${{ vars.GSHEET_WORKSHEET_NAME }}
+      PRETALX_API_KEY: ${{ secrets.PROGRAM_PRETALX_API_KEY }}
+      GSHEET_CLIENT_SECRET_JSON: ${{ secrets.PROGRAM_GSHEET_CLIENT_SECRET_JSON }}
+      GSHEET_SPREAD_ID: ${{ vars.PROGRAM_GSHEET_SPREAD_ID }}
+      GSHEET_WORKSHEET_NAME: ${{ vars.PROGRAM_GSHEET_WORKSHEET_NAME }}
 
     steps:
     - name: Checkout Repository
