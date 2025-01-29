@@ -27,7 +27,17 @@ else:
     gsheet_worksheet_name = os.environ.get('GSHEET_WORKSHEET_NAME')
 
 if (pretalx_api_key is None) | (gsheet_client_secret_json is None) | (gsheet_spread_id is None) | (gsheet_worksheet_name is None):
-    raise('One of the necessary config variables not provided.')
+    # determine which variable is missing
+    if pretalx_api_key is None:
+        raise('Pretalx API key not provided.')
+    elif gsheet_client_secret_json is None:
+        raise('Google Sheets client secret not provided.')
+    elif gsheet_spread_id is None:
+        raise('Google Sheets spread ID not provided.')
+    elif gsheet_worksheet_name is None:
+        raise('Google Sheets worksheet name not provided.')
+    else:
+        raise('One of the necessary config variables not provided.')
 
 # Create google config file based on provided secret
 f = open('client_secret.json', 'w')
