@@ -205,22 +205,23 @@ from webcolors import name_to_rgb
 
 mask = (subs_df["State"] == 'rejected') | (subs_df["State"] == 'withdrawn') | (subs_df["State"] == 'canceled')
 firebrick_rgb_color = name_to_rgb('firebrick')
-mark_rows(worksheet, mask, [firebrick_rgb_color.red, firebrick_rgb_color.blue, firebrick_rgb_color.green])
+mark_rows(worksheet, mask, [firebrick_rgb_color.red / 255, firebrick_rgb_color.green / 255, firebrick_rgb_color.blue / 255])
 
 mask = (subs_df["State"] == 'confirmed')
 green_rgb_color = name_to_rgb('green')
-mark_rows(worksheet, mask, [green_rgb_color.red, green_rgb_color.blue, green_rgb_color.green])
+mark_rows(worksheet, mask, [green_rgb_color.red / 255, green_rgb_color.green / 255, green_rgb_color.blue / 255])
 
 mask = (subs_df["State"] == 'accepted')
 limegreen_rgb_color = name_to_rgb('limegreen')
-mark_rows(worksheet, mask, [limegreen_rgb_color.red, limegreen_rgb_color.blue, limegreen_rgb_color.green])
+mark_rows(worksheet, mask, [limegreen_rgb_color.red / 255, limegreen_rgb_color.green / 255, limegreen_rgb_color.blue / 255])
 
 mask = (subs_df["Pending state"] == 'rejected')
 lightcoral_rgb_color = name_to_rgb('lightcoral')
-mark_rows(worksheet, mask, [lightcoral_rgb_color.red, lightcoral_rgb_color.blue, lightcoral_rgb_color.green])
+mark_rows(worksheet, mask, [lightcoral_rgb_color.red / 255, lightcoral_rgb_color.green / 255, lightcoral_rgb_color.blue / 255])
 
 mask = (subs_df["Pending state"] == 'accepted')
 greenyellow_rgb_color = name_to_rgb('greenyellow')
-mark_rows(worksheet, mask, [greenyellow_rgb_color.red, greenyellow_rgb_color.blue, greenyellow_rgb_color.green])
+mark_rows(worksheet, mask, [greenyellow_rgb_color.red / 255, greenyellow_rgb_color.green / 255, greenyellow_rgb_color.blue / 255])
+
 
 print('Updated', len(subs_df), 'submissions.')
