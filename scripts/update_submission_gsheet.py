@@ -24,7 +24,7 @@ else:
     pretalx_api_key = os.environ.get('PROGRAM_PRETALX_API_KEY')
     gsheet_client_secret_json = os.environ.get('PROGRAM_GSHEET_CLIENT_SECRET_JSON')
     gsheet_spread_id = os.environ.get('PROGRAM_GSHEET_SPREAD_ID')
-    gsheet_worksheet_name = os.environ.get('PROGRAM_GSHEET_WORKSHEET_NAME')
+    gsheet_worksheet_name = os.environ.get('GSHEET_WORKSHEET_NAME')
 
 if (pretalx_api_key is None) | (gsheet_client_secret_json is None) | (gsheet_spread_id is None) | (gsheet_worksheet_name is None):
     raise('One of the necessary config variables not provided.')
@@ -190,19 +190,27 @@ for idx, col in enumerate(subs_df.columns):
 
     format_cell_range(worksheet, col_id, fmt)
 
+# NOTE: The google sheets API has changed and now needs RBG instead of RGB color definitions. While I am creating a PR in the supporting webcolor package to fix the problem for pytanis, I am using the following workaround.
+from webcolors import name_to_rgb
+
 mask = (subs_df["State"] == 'rejected') | (subs_df["State"] == 'withdrawn') | (subs_df["State"] == 'canceled')
-mark_rows(worksheet, mask, 'firebrick')
+firebrick_rgb_color = name_to_rgb('firebrick')
+mark_rows(worksheet, mask, [firebrick_rgb_color.red, firebrick_rgb_color.blue, firebrick_rgb_color.green])
 
 mask = (subs_df["State"] == 'confirmed')
-mark_rows(worksheet, mask, 'green')
+green_rgb_color = name_to_rgb('green')
+mark_rows(worksheet, mask, [green_rgb_color.red, green_rgb_color.blue, green_rgb_color.green])
 
 mask = (subs_df["State"] == 'accepted')
-mark_rows(worksheet, mask, 'limegreen')
+limegreen_rgb_color = name_to_rgb('limegreen')
+mark_rows(worksheet, mask, [limegreen_rgb_color.red, limegreen_rgb_color.blue, limegreen_rgb_color.green])
 
 mask = (subs_df["Pending state"] == 'rejected')
-mark_rows(worksheet, mask, 'lightcoral')
+lightcoral_rgb_color = name_to_rgb('lightcoral')
+mark_rows(worksheet, mask, [lightcoral_rgb_color.red, lightcoral_rgb_color.blue, lightcoral_rgb_color.green])
 
 mask = (subs_df["Pending state"] == 'accepted')
-mark_rows(worksheet, mask, 'greenyellow')
+greenyellow_rgb_color = name_to_rgb('greenyellow')
+mark_rows(worksheet, mask, [greenyellow_rgb_color.red, greenyellow_rgb_color.blue, greenyellow_rgb_color.green])
 
 print('Updated', len(subs_df), 'submissions.')

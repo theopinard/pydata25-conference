@@ -25,6 +25,7 @@ pymdown-extensions = ">=10.11.2, <11"
 mkdocs-open-in-new-tab = ">=1.0.5, <2"
 mkdocs-macros-plugin = ">=1.2.0, <2"
 pytanis = "*"
+webcolors = "*"
 
 [tool.pixi.dependencies]
 ruff = ">=0.4.8,<0.5"
