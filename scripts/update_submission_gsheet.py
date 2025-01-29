@@ -24,7 +24,7 @@ else:
     pretalx_api_key = os.environ.get('PROGRAM_PRETALX_API_KEY')
     gsheet_client_secret_json = os.environ.get('PROGRAM_GSHEET_CLIENT_SECRET_JSON')
     gsheet_spread_id = os.environ.get('PROGRAM_GSHEET_SPREAD_ID')
-    gsheet_worksheet_name = os.environ.get('GSHEET_WORKSHEET_NAME')
+    gsheet_worksheet_name = os.environ.get('PROGRAM_GSHEET_WORKSHEET_NAME')
 
 if (pretalx_api_key is None) | (gsheet_client_secret_json is None) | (gsheet_spread_id is None) | (gsheet_worksheet_name is None):
     # determine which variable is missing
