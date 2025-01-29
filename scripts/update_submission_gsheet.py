@@ -78,8 +78,8 @@ v_cfg = PytanisBasicConfigModel.model_validate(cfg)
 # Read Reviews and all Submissions
 pretalx_client = PretalxClient(
     config=v_cfg, blocking=True)
-subs_count, subs = pretalx_client.submissions(cfg['event_name'], params={'questions': 'all'})
-spkrs_count, spkrs = pretalx_client.speakers(cfg['event_name'], params={'questions': 'all'})
+subs_count, subs = pretalx_client.submissions(cfg['event_name'], params={'questions': 'all', 'limit': 1000})
+spkrs_count, spkrs = pretalx_client.speakers(cfg['event_name'], params={'questions': 'all', 'limit': 1000})
 revs_count, revs = pretalx_client.reviews(cfg['event_name'])
 subs, revs, spkrs = list(subs), list(revs), list(spkrs)
 subs_df = subs_as_df(subs, with_questions=True)
