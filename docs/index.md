@@ -1,23 +1,23 @@
 ---
-title: About PyCon DE & PyData 2025
+title: About Pydata Berlin 2025
 hide:
   - navigation
 ---
 
-# :fontawesome-solid-book-atlas: About PyCon DE & PyData 2025
+# :fontawesome-solid-book-atlas: About Pydata Berlin 2025
 
-## 🚨 This is the Public Documentation for PyCon DE & PyData 2025, not the Website!
+## 🚨 This is the Public Documentation for Pydata Berlin 2025, not the Website!
 
 !!! info
-    After some awesome years in Berlin, it was time to move on.  
-    **The conference will take place 23. - 25. April in Darmstadt, Germany.**
+    After some awesome years in PyconDe, it was time to move on.  
+    **The conference will be Pydata Focused and take place  April in Darmstadt, Germany.**
 
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
-In case you are looking for the conference website to attend or speak  please visit [pycon.de](https://pycon.de).
+In case you are looking for the conference website to attend or speak  please visit the [Pydata Berlin conference website]( https://pydata.org/berlin2025/).
 
 ## 🤝 A Joint Conference
 
-PyCon DE & PyData 2025 brings together Python communitie,s in a unique collaboration.
+Pydata Berlin 2025 brings together Python communitie,s in a unique collaboration.
 From programming, software development, and data science to machine learning and artificial intelligence to MLOps,
 Community, ethics, our conference covers a wide range of topics.
 
@@ -113,7 +113,7 @@ Website: [Pioneers Hub](https://www.pioneershub.org/en/)
 
 ---
 
-Join us in making PyCon DE & PyData 2025 an unforgettable experience for the Python community!
+Join us in making Pydata Berlin 2025 an unforgettable experience for the Python community!
 
 --- 
 ## A Big Thank You
