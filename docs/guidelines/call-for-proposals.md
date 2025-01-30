@@ -252,4 +252,4 @@ learn more about the scholarship on our Diversity Program page, where you can su
 
 We strive to maintain the Python community’s reputation for being welcoming, friendly, and supportive. To this end, we
 ask all attendees, organisers and sponsors to follow
-the [Code of Conduct](https://pioneershub.github.io/pyconde25-conference/code-of-conduct/).
+the [Code of Conduct](https://theopinard.github.io/pydata25-conference/code-of-conduct/).

@@ -1,31 +1,31 @@
 ---
-title: About PyCon DE & PyData 2025
+title: About Pydata Berlin 2025
 hide:
   - navigation
 ---
 
-# :fontawesome-solid-book-atlas: About PyCon DE & PyData 2025
+# :fontawesome-solid-book-atlas: About Pydata Berlin 2025
 
-## 🚨 This is the Public Documentation for PyCon DE & PyData 2025, not the Website!
+## 🚨 This is the Public Documentation for Pydata Berlin 2025, not the Website!
 
 !!! info
-    After some awesome years in Berlin, it was time to move on.  
-    **The conference will take place 23. - 25. April in Darmstadt, Germany.**
+    After some awesome years with PyconDe in Berlin, it was time to move on.  
+    **The conference will be Pydata Focused and take place  April in Darmstadt, Germany.**
 
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
-In case you are looking for the conference website to attend or speak  please visit [pycon.de](https://pycon.de).
+In case you are looking for the conference website to attend or speak  please visit the [Pydata Berlin conference website]( https://pydata.org/berlin2025/).
 
 ## 🤝 A Joint Conference
 
-PyCon DE & PyData 2025 brings together Python communitie,s in a unique collaboration.
+Pydata Berlin 2025 brings together Python communitie,s in a unique collaboration.
 From programming, software development, and data science to machine learning and artificial intelligence to MLOps,
 Community, ethics, our conference covers a wide range of topics.
 
 This joint conference is organized by:
 
-- **[Python Software Verband e.V.](https://www.python-verband.org/){:target="blank"}** - The German Python Software Association
 - **[NumFOCUS Inc.](https://numfocus.org/){:target="blank"}** - Supporting scientific computing and data science
 - **[Pioneers Hub gGmbH](https://www.pioneershub.org/en/){:target="blank"}** - Non-profit fostering innovation and community building
+- **[Python Software Verband e.V.](https://www.python-verband.org/){:target="blank"}** - The German Python Software Association
 
 ## 🎯 Our Vision
 
@@ -41,7 +41,6 @@ We're creating a space where Python's diverse community comes together to learn,
 ## 🌟 What Makes Us Special
 
 - **Diverse Content**: From web development to data science, from AI to IoT
-- **Dual Tracks**: Dedicated tracks for both PyCon and PyData content
 - **Community-Driven**: Organized by volunteers who are passionate about Python
 - **Inclusive Environment**: Committed to diversity and accessibility
 - **Knowledge Exchange**: Mix of talks, tutorials, and workshops
@@ -113,7 +112,7 @@ Website: [Pioneers Hub](https://www.pioneershub.org/en/)
 
 ---
 
-Join us in making PyCon DE & PyData 2025 an unforgettable experience for the Python community!
+Join us in making Pydata Berlin 2025 an unforgettable experience for the Python community!
 
 --- 
 ## A Big Thank You

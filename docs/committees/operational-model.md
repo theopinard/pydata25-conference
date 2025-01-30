@@ -6,7 +6,7 @@ hide:
 ---
 
 
-!!! tip "Pycon DE & PyData 2025 works 'Distributed & Asynchronous'"
+!!! tip "Pydata Berlin 2025 works 'Distributed & Asynchronous'"
     We are a large team and we have made excellent experience in the past working this way.
 
 # Operational Models

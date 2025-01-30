@@ -1,9 +1,9 @@
 ---
 # Site settings
-site_name: PyCon DE & PyData 2025
-site_url: https://pioneershub.github.io/pyconde25-conference/
+site_name: PyData Berlin 2025
+site_url: https://theopinard.github.io/pydata25-conference/
 site_author: [
-  "Alexander Hendorf",
+  "Theodore Meynard",
 ]
 site_description: >-
   Docs for organizing our volunteer-driven event.
@@ -19,19 +19,19 @@ copyright:
 
 # Event details
 event:
-  event_name: "PyCon DE & PyData 2025"
-  start_date: "23.04.2025"
-  end_date: "25.04.2025"
-  day_before: "22.04.2025"
-  month: "April"
+  event_name: "Pydata Berlin 2025"
+  start_date: "End August/Early September 2025"
+  end_date: "End August/Early September 2025"
+  day_before: "End August/Early September 2025"
+  month: "September"
   year: "2025"
-  location: "Darmstadt, Germany"
-  contact_email: "info@pycon.de"
+  location: "Berlin, Germany"
+  contact_email: "info@pydata.berlin"
   # program
-  cfp_open: "01.01.2025"
-  cfp_close: "01.02.2025"
-  review_deadline: "29.01.2025"
-  cfp_speakers_notifications: "01.03.2025"
+  cfp_open: "01.03.2025"
+  cfp_close: "01.05.2025"
+  review_deadline: "15.05.2025"
+  cfp_speakers_notifications: "01.06.2025"
   cfp_link: "/to-be-announced/"
   voting_url: "/to-be-announced/"
   voting_start: "02.02.2025 12:00 CET"
@@ -44,19 +44,19 @@ event:
   financial_aid_form: "https://forms.gle/u1qAPxQBcQYma9cq7"
   financial_aid_regional_countries: "Albania, Algeria, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic/Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Jordan, Kosovo, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Moldova, Morocco, Netherlands, North Macedonia, Northern Cyprus, Norway, Palestine, Poland, Portugal, Republic of Cyprus, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Syria, Tunisia, Turkey, Ukraine, United Kingdom, and Vatican City."
   # committees
-  call_for_committee_open: "22.10.2024"
-  call_for_committee_close: "01.11.2024"
-  apply_url_committees: "https://forms.gle/CwoS6z6BFxhjNBe4A"
+  call_for_committee_open: "15.02.2025"
+  call_for_committee_close: "15.03.2025"
+  apply_url_committees: "https://forms.gle/EhS9j2WQgJzBMQ4p9"
   # volunteers
-  call_for_volunteers_open: "01.03.2025"
-  call_for_volunteers_close: "15.03.2025"
+  call_for_volunteers_open: "01.07.2025"
+  call_for_volunteers_close: "15.07.2025"
   apply_url_volunteers: "/to-be-announced/"
   # tickets
-  ticket_sales_open: "15.01.2025"
-  ticket_sales_late_bird: "01.03.2025"
+  ticket_sales_open: "15.03.2025"
+  ticket_sales_late_bird: "15.06.2025"
 
   # Code of Conduct Team
-  coc_email: coc-reports@pycon.de
+  coc_email: coc-reports@pydata.berlin
   team_members: |
     - To be announced
     - To be announced
@@ -74,21 +74,21 @@ committees:
       attend_conference: true
     workload:
       average: "Usually not much to do, but be prepared for reports. If reports come in immediate action is required."
-      start: "15.11.2024"
+      start: "15.03.2024"
       peak: "During the conference, it depends on reports coming in"
       end: "Until all reports have been resolved"
   "communication":
     attend_conference: true
     workload:
       average: "1-2 hours per week"
-      start: "15.11.2024"
+      start: "15.03.2024"
       peak: "3 weeks before the conference, during the conference"
       end: "2 weeks afters the conference"
   "diversity":
     attend_conference: true
     workload:
       average: "1-2 hours per week"
-      start: "10.11.2024"
+      start: "15.03.2024"
       peak: "During the selection and notification process. Four months before the conference 4-5 hours per week for 2 weeks"
       end: "Four weeks after the conference until report and reimbursements are made"
   "experience":
