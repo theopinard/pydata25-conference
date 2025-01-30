@@ -1,13 +1,12 @@
 ---
-site_name: PyCon DE & PyData Conference
-site_url: https://pioneershub.github.io/pyconde25-conference/
-site_author: Alexander Hendorf
+site_name: PyData Berlin 2025
+site_url: https://theopinard.github.io/pydata25-conference/
+site_author: Theodore Meynard
 site_description: >-
-  Docs for organizing our volunteer-driven event.
+  Docs for organizing our volunteer-driven Pydata Berlin Conference.
 # Repository
-repo_name: PioneersHub/pyconde25-conference
-repo_url: https://github.com/PioneersHub/pyconde25-conference
-
+repo_name: theopinard/pydata25-conference
+repo_url: https://github.com/theopinard/pydata25-conference
 #
 nav:
   - About: index.md
