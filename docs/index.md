@@ -9,7 +9,7 @@ hide:
 ## 🚨 This is the Public Documentation for Pydata Berlin 2025, not the Website!
 
 !!! info
-    After some awesome years in PyconDe, it was time to move on.  
+    After some awesome years with PyconDe in Berlin, it was time to move on.  
     **The conference will be Pydata Focused and take place  April in Darmstadt, Germany.**
 
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
@@ -23,9 +23,9 @@ Community, ethics, our conference covers a wide range of topics.
 
 This joint conference is organized by:
 
-- **[Python Software Verband e.V.](https://www.python-verband.org/){:target="blank"}** - The German Python Software Association
 - **[NumFOCUS Inc.](https://numfocus.org/){:target="blank"}** - Supporting scientific computing and data science
 - **[Pioneers Hub gGmbH](https://www.pioneershub.org/en/){:target="blank"}** - Non-profit fostering innovation and community building
+- **[Python Software Verband e.V.](https://www.python-verband.org/){:target="blank"}** - The German Python Software Association
 
 ## 🎯 Our Vision
 
@@ -41,7 +41,6 @@ We're creating a space where Python's diverse community comes together to learn,
 ## 🌟 What Makes Us Special
 
 - **Diverse Content**: From web development to data science, from AI to IoT
-- **Dual Tracks**: Dedicated tracks for both PyCon and PyData content
 - **Community-Driven**: Organized by volunteers who are passionate about Python
 - **Inclusive Environment**: Committed to diversity and accessibility
 - **Knowledge Exchange**: Mix of talks, tutorials, and workshops
