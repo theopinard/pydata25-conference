@@ -1,9 +1,9 @@
 ---
-title: Video Committee
+title: Hybrid Experience Committee
 icon: fontawesome/solid/video
 ---
 
-# Video Committee
+#  Hybrid Experience Committee
 
 ## Mission
 

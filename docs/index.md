@@ -9,8 +9,8 @@ hide:
 ## 🚨 This is the Public Documentation for Pydata Berlin 2025, not the Website!
 
 !!! info
-    After some awesome years with PyconDe in Berlin, it was time to move on.  
-    **The conference will be Pydata Focused and take place  April in Darmstadt, Germany.**
+    After some awesome years with PyconDe in Berlin, it was time for them to move on.  
+    **The conference will be Focused on Pydata and take place at BCC on the 1-3 September.**
 
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
 In case you are looking for the conference website to attend or speak  please visit the [Pydata Berlin conference website]( https://pydata.org/berlin2025/).
@@ -159,7 +159,7 @@ These awesome people have contributed to content this documentation was built up
 [Sabine Reisser](https://github.com/orgs/PYCONDE/people/sreisser): Video;
 [Sebastian Neubauer Reisser](https://github.com/sebastianneubauer): Video, Steering;
 [Shivam Singhal](https://github.com/championshuttler): On-Site;
-[Theodore Meynard](https://github.com/orgs/PYCONDE/people/terezaif): Diversity, Swag;
+[Theodore Meynard](https://github.com/theopiaard): Diversity, Communication, Steering;
 [Valentina Scipione](https://github.com/astrovale): On-Site;
 
 We missed mentioning you?   

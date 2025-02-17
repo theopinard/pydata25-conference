@@ -8,7 +8,7 @@ hide:
 ## Call for Committe Members
 
 The call for people who help to prepare the conference and afterward.
-This call is made 6-8 months before the conference.
+This call is made 6 months before the conference.
 
 Committees are listed in [/committees](committees/index.md).
 

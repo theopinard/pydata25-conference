@@ -3,7 +3,7 @@
 !!! warning "This is not there, yet"
     This is a preliminary timeline as we just get started.
     --- 
-    Attendees and speakers: **ALWAYS refer to miles stone published at [pycon.de](https:/pycon.de)**
+    Attendees and speakers: **ALWAYS refer to miles stone published at our official website**
 
 ## Pre-Conference Phase
 
@@ -21,9 +21,6 @@
 
 :calendar: **{{config.extra.event.financial_aid_open}}** - Financial Aid Applications Open
 :moneybag: Diversity Committee starts processing applications
-
-:calendar: **{{config.extra.committees.swag.workload.start}}** - Swag Design Begins
-:tshirt: Swag Committee kicks into gear
 
 :calendar: **{{config.extra.committees.on_site_operations.start}}** - On-Site Planning Begins
 :building_construction: On-Site Operations Committee starts preparations
@@ -57,8 +54,6 @@
 | Program | :fire: {{config.extra.committees.program.workload.peak}} |
 | Diversity | :fire: {{config.extra.committees.diversity.workload.peak}} |
 | Communication | :fire: {{config.extra.committees.communication.workload.peak}} |
-| On-Site Operations | :fire: {{config.extra.committees.on_site_operations.peak}} |
+| On-Site Operations | :fire: {{config.extra.committees.on_site_operations.workload.peak}} |
 | Video | :fire: {{config.extra.committees.video.workload.peak}} |
-| Swag | :fire: {{config.extra.committees.swag.workload.peak}} |
-| Infrastructure | :fire: {{config.extra.committees.infrastructure.workload.peak}} |
 | Code of Conduct | :fire: {{config.extra.committees.coc.workload.peak}} |

@@ -58,7 +58,7 @@ Make sure to familiarize yourself with the volunteer committees before you apply
 
 Got questions? We've got answers! Reach out to us at {{config.extra.event.contact_email}}.
 
-[Apply to Volunteer Here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
+[Apply to be an organsier here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 Join us in creating an unforgettable event that celebrates knowledge, community, and the joy of coming together!
 
