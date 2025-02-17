@@ -9,8 +9,8 @@ site_description: >-
   Docs for organizing our volunteer-driven event.
 
 # Repository at GitHub
-repo_name: PioneersHub/pyconde25-conference
-repo_url: https://github.com/PioneersHub/pyconde25-conference
+repo_name: theopinard/pydata25-conference
+repo_url: https://github.com/theopinard/pydata25-conference
 
 # Copyright for footer
 copyright:

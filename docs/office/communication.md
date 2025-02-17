@@ -22,14 +22,14 @@ List of Social Media platforms and branding requirements:
 
 | Platform                                                                 | Description         | Branding formats | Remark |
 |--------------------------------------------------------------------------|---------------------|-----------------:|:------:|
-| LinkedIn [Conference Profile](https://www.linkedin.com/company/pyconde)  | profile (circle)    |     300 x 300 px |  \[1]  |
+| LinkedIn [Conference Profile](https://www.linkedin.com/company/pydata-berlin/)  | profile (circle)    |     300 x 300 px |  \[1]  |
 |                                                                          | title               |    1128 x 191 px |        |
 |                                                                          | post image template |    1200 x 627 px |  \[2   |
-| X [Conference Profile](https://x.com/pyconde)                            | profile (circle)    |     400 x 400 px |  \[1]  |
+| X [Conference Profile](https://x.com/pydataberlin)                            | profile (circle)    |     400 x 400 px |  \[1]  |
 |                                                                          | title               |    1128 x 191 px |        |
-| GitHub [Repository](https://github.com/PioneersHub/pyconde25-conference) | social banner       |    1280 x 640 px |        |
+| GitHub [Repository](https://github.com/theopinard/pydata25-conference) | social banner       |    1280 x 640 px |        |
 | Github  [Site](https://theopinard.github.io/pydata25-conference/)      | template            |    1280 x 640 px |  \[3]  |
-| YouTube [Channel](https://www.youtube.com/@PyConDE)                      | profile (circle)    |     800 x 800 px |  \[1]  |
+| YouTube [Channel](https://www.youtube.com/@PyDataTV)                      | profile (circle)    |     800 x 800 px |  \[1]  |
 |                                                                          | banner              |   2560 x 1400 px |        |
 
 \[1] The image is displayed in a circle
