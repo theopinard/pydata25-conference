@@ -31,11 +31,8 @@ Welcome to the Organizer Help & Resources page for {{config.extra.event.event_na
 - [Program Committee](committees/program.md)
 - [Diversity Committee](committees/diversity.md)
 - [Communication Committee](committees/communication.md)
-- [Infrastructure Committee](committees/infrastructure.md)
 - [On-Site Operations Committee](committees/on-site-ops.md)
-- [Experience Committee](committees/experience.md)
 - [Video Committee](committees/video.md)
-- [Swag Committee](committees/swag.md)
 
 ## Key Processes and Guidelines
 

@@ -16,16 +16,12 @@ nav:
   - Committees:
       - committees/index.md
       - Code of Conduct: committees/code-of-conduct.md
-      - Communication: committees/communication.md
+      - Communication & Website: committees/communication.md
       - Diversity: committees/diversity.md
-      - Experience: committees/experience.md
-      - Infrastructure: committees/infrastructure.md
       - On-Site Operations: committees/on-site-ops.md
       - Program: committees/program.md
       - Steering: committees/steering.md
-      - Swag: committees/swag.md
-      - Video: committees/video.md
-      - Operational Models: committees/operational-model.md
+      - Hybrid Experience: committees/video.md
       - Inner- and Cross-Committee Communication: committees/team-communication.md
   - Guidelines:
       - guidelines/index.md
@@ -157,5 +153,5 @@ hooks:
 
 # Copyright
 copyright: >
-  Copyright &copy; 2024 Pioneers Hub gGmbH / Python Softwareverband e.V. –
+  Copyright &copy; 2025 Pioneers Hub gGmbH / Python Softwareverband e.V. –
   <a href="#__consent">Change cookie settings</a>

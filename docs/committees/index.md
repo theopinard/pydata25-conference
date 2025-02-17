@@ -14,14 +14,12 @@ field or eager to learn and grow with us, there’s a place for you on our team.
 ## The Committees
 
 - :fontawesome-solid-shield: [Code of Conduct](code-of-conduct.md)
-- :fontawesome-solid-paper-plane: [Communication](communication.md)
+- :fontawesome-solid-paper-plane: [Communication & Website](communication.md)
 - :fontawesome-solid-universal-access: [Diversity](diversity.md)
-- :fontawesome-solid-face-smile: [Experience](experience.md)
 - :fontawesome-solid-people-group: [On-Site Operations](on-site-ops.md)
 - :fontawesome-solid-chalkboard: [Program](program.md)
 - :fontawesome-solid-compass: [Steering](steering.md)
-- :fontawesome-solid-shirt: [Swag](swag.md)
-- :fontawesome-solid-video:  [Video](video.md)
+- :fontawesome-solid-video:  [Hybrid Experience](video.md)
 
 ---
 

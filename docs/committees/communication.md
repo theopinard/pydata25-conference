@@ -1,5 +1,5 @@
 ---
-title: Communication Committee
+title: Communication & Website Committee
 icon: fontawesome/solid/paper-plane
 ---
 
