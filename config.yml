@@ -1,6 +1,6 @@
 ---
 # Site settings
-site_name: PyData Berlin 2025
+site_name: PyData Berlin 2025 Conference
 site_url: https://theopinard.github.io/pydata25-conference/
 site_author: [
   "Theodore Meynard",
@@ -19,7 +19,7 @@ copyright:
 
 # Event details
 event:
-  event_name: "Pydata Berlin 2025"
+  event_name: "PyData Berlin 2025 Conference"
   start_date: "1st September 2025"
   end_date: "3rd September 2025"
   day_before: "31st August 2025"

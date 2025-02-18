@@ -1,9 +1,9 @@
 ---
-site_name: PyData Berlin 2025
+site_name: PyData Berlin 2025 Conference
 site_url: https://theopinard.github.io/pydata25-conference/
 site_author: Theodore Meynard
 site_description: >-
-  Docs for organizing our volunteer-driven Pydata Berlin Conference.
+  Docs for organizing our volunteer-driven PyData Berlin Conference.
 # Repository
 repo_name: theopinard/pydata25-conference
 repo_url: https://github.com/theopinard/pydata25-conference

@@ -32,16 +32,14 @@ The conference is realized by [volunteer organizers](index.md) and the [conferen
 While the volunteers are responsible for the conference content, authenticity and attendees' experience,
 the backoffice is responsible for the organization (sponsoring, finances, budget, contracts, etc.).
 
-[Applications are closed for 2025](#){:target="_blank" .md-button .md-button--secondary }
-
 
 ## Application Process
 
 * Please review the committee descriptions
 * Choose one or multiple committee you’re interested in contributing to
-* Fill out the application form
+* Fill out the application form on the button below
 * The Steering Committee will review the applications and get back to you
 
-[Applications are closed for 2025](#){:target="_blank" .md-button .md-button--secondary }
+[Applications are open for 2025]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--secondary }
 
 ---

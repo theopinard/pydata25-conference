@@ -1,23 +1,23 @@
 ---
-title: About Pydata Berlin 2025
+title: About PyData Berlin 2025 Conference
 hide:
   - navigation
 ---
 
-# :fontawesome-solid-book-atlas: About Pydata Berlin 2025
+# :fontawesome-solid-book-atlas: About PyData Berlin 2025 Conference Conference
 
-## 🚨 This is the Public Documentation for Pydata Berlin 2025, not the Website!
+## 🚨 This is the Public Documentation for PyData Berlin 2025, not the Website!
 
 !!! info
     After some awesome years with PyconDe in Berlin, it was time for them to move on.  
-    **The conference will be Focused on Pydata and take place at BCC on the 1-3 September.**
+    **The conference will be Focused on PyData and take place at BCC on the 1-3 September.**
 
 We like to share our documentation with the public to show how we work and to inspire others to do the same.
-In case you are looking for the conference website to attend or speak  please visit the [Pydata Berlin conference website]( https://pydata.org/berlin2025/).
+In case you are looking for the conference website to attend or speak  please visit the [PyData Berlin conference website]( https://pydata.org/berlin2025/).
 
 ## 🤝 A Joint Conference
 
-Pydata Berlin 2025 brings together Python communitie,s in a unique collaboration.
+PyData Berlin 2025 Conference brings together Python communitie,s in a unique collaboration.
 From programming, software development, and data science to machine learning and artificial intelligence to MLOps,
 Community, ethics, our conference covers a wide range of topics.
 
@@ -69,7 +69,6 @@ We're creating a space where Python's diverse community comes together to learn,
 We strive to make our conference accessible to everyone:
 
 - Financial aid program for those who need it
-- Childcare services during the conference
 - Accessible venue facilities
 - Live captioning for talks
 - Hybrid format with online participation options
@@ -82,11 +81,13 @@ We're committed to reducing our environmental impact:
 - Encouraging sustainable travel options
 - Working with eco-conscious suppliers
 - Minimizing conference waste
+- Only provide vegetarian/vegan food
 
 ## 🤝 Get Involved
 
 There are many ways to participate:
 
+- Help organise the conference
 - Volunteer during the conference
 - Sponsor the event
 - Submit a talk or tutorial proposal
@@ -112,7 +113,7 @@ Website: [Pioneers Hub](https://www.pioneershub.org/en/)
 
 ---
 
-Join us in making Pydata Berlin 2025 an unforgettable experience for the Python community!
+Join us in making PyData Berlin 2025 Conference an unforgettable experience for the Python community!
 
 --- 
 ## A Big Thank You

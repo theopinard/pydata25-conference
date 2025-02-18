@@ -3,7 +3,7 @@ authors = [
     "Alexander CS Hendorf <alexander@pioneershub.org>",
 ]
 channels = ["conda-forge"]
-description = "Docs for organizing Pydata Berlin 2025"
+description = "Docs for organizing PyData Berlin 2025 Conference"
 name = "conference"
 platforms = ["osx-arm64", "win-64", "linux-64", "osx-64", "linux-aarch64"]
 version = "0.3.4"

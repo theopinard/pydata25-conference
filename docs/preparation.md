@@ -74,7 +74,7 @@ Update the social media channels with:
     - [LinkedIn](https://www.linkedin.com/company/pydata-global/)
   - PyData Paris:
     - [LinkedIn](https://www.linkedin.com/company/pydata-paris/)
-  - Pydata Eindhoven:
+  - PyData Eindhoven:
     - [LinkedIn](https://www.linkedin.com/company/pydata-eindhoven/)
   - Meetup
   
